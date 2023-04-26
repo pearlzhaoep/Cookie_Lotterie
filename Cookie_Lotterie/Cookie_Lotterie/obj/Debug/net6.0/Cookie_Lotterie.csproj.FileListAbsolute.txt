@@ -1,0 +1,15 @@
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\bin\Debug\net6.0\Cookie_Lotterie.exe
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\bin\Debug\net6.0\Cookie_Lotterie.deps.json
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\bin\Debug\net6.0\Cookie_Lotterie.runtimeconfig.json
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\bin\Debug\net6.0\Cookie_Lotterie.dll
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\bin\Debug\net6.0\Cookie_Lotterie.pdb
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.csproj.AssemblyReference.cache
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.AssemblyInfoInputs.cache
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.AssemblyInfo.cs
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.csproj.CoreCompileInputs.cache
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.dll
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\refint\Cookie_Lotterie.dll
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.pdb
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\Cookie_Lotterie.genruntimeconfig.cache
+C:\DEV\ProjetsBackend\Cookie_Lotterie\Cookie_Lotterie\Cookie_Lotterie\obj\Debug\net6.0\ref\Cookie_Lotterie.dll
